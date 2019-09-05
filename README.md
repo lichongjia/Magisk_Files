@@ -6,4 +6,11 @@
 
 要使用此更新通道，请在Magisk Manager设置中配置以下自定义的URL：
  
-https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/updates/kantjer.json
+更新到v17.2版本
+https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/v17.json
+
+更新到v18.1版本
+https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/v18.json
+
+更新到最新版本
+https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/lastest.json
