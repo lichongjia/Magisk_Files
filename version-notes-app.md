@@ -1,3 +1,3 @@
-## MagiskManager¸÷°æ±¾¸üĞÂÈÕÖ¾
+## MagiskManagerå„ç‰ˆæœ¬æ›´æ–°æ—¥å¿—
 v6.0.0+
-- ²Î¼û[XDAÏêÇéÌû](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+- å‚è§[XDAè¯¦æƒ…å¸–](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)

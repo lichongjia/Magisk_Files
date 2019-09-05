@@ -1,4 +1,3 @@
-
 ### Magisk
 v19.3
 - [MagiskHide] Hugely improve process monitor implementation, hopefully should no longer cause 100% CPU and daemon crashes
