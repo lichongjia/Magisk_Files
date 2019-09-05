@@ -1,0 +1,18 @@
+{
+  "app": {
+    "version": "7.0.0",
+    "versionCode": "181",
+    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v18/MagiskManager-v6.0.0-v18.1.apk",
+    "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-app.md"
+  },
+  "magisk": {
+    "version": "18.1",
+    "versionCode": "181",
+    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v18/Magisk-v18.1.zip",
+    "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-magisk.md",
+    "md5": "64017d8c17bc1aedac3c0b41773129cd"
+  },
+    "uninstaller": {
+    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v18/Magisk-uninstaller-20190204-v18.1.zip"
+  }
+}
