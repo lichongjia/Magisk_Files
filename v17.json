@@ -1,18 +1,18 @@
 {
   "app": {
     "version": "6.0.0",
-    "versionCode": "172",
-    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v17/MagiskManager-v6.0.0-v17.2.apk",
-    "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-app.md"
+    "versionCode": "147",
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/v17/MagiskManager-v6.0.0-v17.2.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/version-notes-app.md"
   },
   "magisk": {
     "version": "17.2",
-    "versionCode": "172",
-    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v17/Magisk-v17.2.zip",
-    "note": "https://raw.githubusercontent.com/lichongjia/Magisk_Files/master/version-notes-magisk.md",
+    "versionCode": "17200",
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/v17/Magisk-v17.2.zip",
+    "note": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/version-notes-magisk.md",
     "md5": "a8b466bb888306cc6adbb8ab365d03c6"
   },
     "uninstaller": {
-    "link": "https://github.com/lichongjia/Magisk_Files/raw/master/v17/Magisk-uninstaller-20180921-v17.2.zip"
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/v17/Magisk-uninstaller-20180921-v17.2.zip"
   }
 }

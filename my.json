@@ -1,0 +1,25 @@
+{
+  "app": {
+    "version": "8.0.7",
+    "versionCode": "4834",
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/my/MagiskManager-v8.0.7.apk",
+    "note": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/version-notes-app.md"
+  },
+  "stub": {
+    "versionCode": "15",
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/my/stub-release.apk"
+  },
+    "uninstaller": {
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/v20/Magisk-uninstaller-20200323-v20.4.zip"
+  },
+  "magisk": {
+    "version": "20.4",
+    "versionCode": "20400",
+    "link": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/v20/Magisk-v20.4.zip",
+    "note": "https://cdn.jsdelivr.net/gh/lichongjia/Magisk_Files@master/version-notes-magisk.md",
+    "md5": "9503fc692e03d60cb8897ff2753c193f"
+  },
+    "info": {
+    "Credit": "https://github.com/lichongjia"
+  }
+}
